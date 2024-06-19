@@ -1,10 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <NoWarn>SA1600,CS1591,SA1200,SA1633,SA1000</NoWarn>
+        <NoWarn>SA1600,CS1591,SA1200,SA1633,SA1000,S2933,S4143,S2971,S3903,S5254,S4136,CA1050</NoWarn>
     </PropertyGroup>
 
     <ItemGroup>
